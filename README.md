@@ -15,8 +15,9 @@
 
 
 ## 🛠️ Tools and Technologies
-
+<div>
 <img align="right" width="40%" src="https://i.imgur.com/tnDMMrD.png"/>
+</div>
 
 <table>
   <tr>
