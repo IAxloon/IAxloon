@@ -1,58 +1,3 @@
-<style>
-  /* CONTENEDOR RESPONSIVE PARA TABLAS */
-  .table-container {
-    width: 100%;
-    overflow-x: auto;
-    display: flex;
-    justify-content: center;
-    margin: 25px 0;
-  }
-
-  /* TABLAS */
-  table {
-    border-collapse: collapse;
-    width: 90%;
-    max-width: 950px;
-    min-width: 600px;
-    background: #ffffff;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-  }
-
-  th {
-    background: linear-gradient(90deg, #00ff8b, #8b00ff);
-    color: white;
-    padding: 14px;
-    text-align: center;
-    font-size: 15px;
-  }
-
-  td {
-    padding: 12px;
-    border: 1px solid #e1e1e1;
-    text-align: center;
-    font-size: 14px;
-  }
-
-  tr:nth-child(even) {
-    background: #f8f8f8;
-  }
-
-  /* RESPONSIVE PARA MÓVIL */
-  @media (max-width: 600px) {
-    table {
-      min-width: 500px;
-      font-size: 13px;
-    }
-
-    th, td {
-      padding: 10px;
-    }
-  }
-</style>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff8b,100:8b00ff&height=180&section=header&text=Axel%20Rojas%20👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
@@ -103,7 +48,9 @@
     <td>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
@@ -122,7 +69,6 @@
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
     </td>
