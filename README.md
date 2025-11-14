@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff8b,100:8b00ff&height=180&section=header&text=Axel%20Rojas%20👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</div>
-
 ---
 
 <p>
@@ -24,10 +20,10 @@ Hola, soy Axel. Lorem ipsum
 
 ## 🛠️ Tools and Technologies
 
-<img align="right" width="38%" src="https://i.imgur.com/tnDMMrD.png"/>
+<img align="right" width="36%" src="https://i.imgur.com/tnDMMrD.png"/>
 
 
-<table align="left">
+<table>
   <tr>
     <th>Front End Development</th>
     <th>Back End / Frameworks</th>
@@ -89,6 +85,10 @@ Hola, soy Axel. Lorem ipsum
   </tr>
   </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,100:00ff8b&height=120&section=footer"/>
-</div>
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IAxloon/IAxloon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IAxloon/IAxloon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IAxloon/IAxloon/output/pacman-contribution-graph.svg">
+</picture>
