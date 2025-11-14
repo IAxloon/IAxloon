@@ -19,7 +19,7 @@ Hola, soy Axel. Lorem ipsum
   
 </p>
 
-## 🛠️ Tools and Technologies
+## Tecnologias y herramientas
 
 <img align="right" width="36%" src="https://i.imgur.com/tnDMMrD.png"/>
 
