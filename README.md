@@ -1,3 +1,58 @@
+<style>
+  /* CONTENEDOR RESPONSIVE PARA TABLAS */
+  .table-container {
+    width: 100%;
+    overflow-x: auto;
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+  }
+
+  /* TABLAS */
+  table {
+    border-collapse: collapse;
+    width: 90%;
+    max-width: 950px;
+    min-width: 600px;
+    background: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  }
+
+  th {
+    background: linear-gradient(90deg, #00ff8b, #8b00ff);
+    color: white;
+    padding: 14px;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  td {
+    padding: 12px;
+    border: 1px solid #e1e1e1;
+    text-align: center;
+    font-size: 14px;
+  }
+
+  tr:nth-child(even) {
+    background: #f8f8f8;
+  }
+
+  /* RESPONSIVE PARA MÓVIL */
+  @media (max-width: 600px) {
+    table {
+      min-width: 500px;
+      font-size: 13px;
+    }
+
+    th, td {
+      padding: 10px;
+    }
+  }
+</style>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff8b,100:8b00ff&height=180&section=header&text=Axel%20Rojas%20👾&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
