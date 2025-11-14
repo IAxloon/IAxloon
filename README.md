@@ -25,7 +25,7 @@ Hola, soy Axel. Lorem ipsum
 
 ## 🛠️ Tools and Technologies
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+<img align="right" width="38%" src="https://i.imgur.com/tnDMMrD.png"/>
 
 <table>
   <tr>
