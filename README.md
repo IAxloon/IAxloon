@@ -5,15 +5,18 @@
 ---
 
 ## ⚡ Sobre mí
-- 👨‍💻 Ingeniero en Informática en formación  
-- 🎮 Amante de la tecnología, videojuegos y el desarrollo de software  
-- 🔥 Me gusta crear proyectos con estilos modernos y efectos visuales  
-- 🚀 Fan del desarrollo web, mobile y automatización  
-- 🧠 Siempre aprendiendo algo nuevo  
+- Ingeniero en Informática en formación  
+- Amante de la tecnología, videojuegos y el desarrollo de software  
+- Me gusta crear proyectos con estilos modernos y efectos visuales  
+- Fan del desarrollo web, mobile y automatización  
+- Siempre aprendiendo algo nuevo  
 
 ---
 
+
 ## 🛠️ Tools and Technologies
+
+<img align="right" width="38%" src="https://i.imgur.com/tnDMMrD.png"/>
 
 <table>
   <tr>
@@ -35,6 +38,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" />
     </td>
   </tr>
@@ -70,10 +74,12 @@
     </td>
     <td>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
     </td>
   </tr>
-</table>
+  </table>
+
 
 ---
 ## Proyects
