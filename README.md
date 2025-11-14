@@ -26,6 +26,7 @@ Hola, soy Axel. Lorem ipsum
 
 <img align="right" width="38%" src="https://i.imgur.com/tnDMMrD.png"/>
 
+
 <table align="left">
   <tr>
     <th>Front End Development</th>
@@ -87,34 +88,6 @@ Hola, soy Axel. Lorem ipsum
     </td>
   </tr>
   </table>
-
-
----
-## Proyects
-
-<div class="table-container" align="left">
-  <table>
-    <thead>
-      <tr>
-        <th>Proyecto</th>
-        <th>Tecnologías</th>
-        <th>Año</th>
-        <th>Descripción</th>
-      </tr>
-    </thead>
-    <tbody>
-      <!-- Agrega contenido luego -->
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,100:00ff8b&height=120&section=footer"/>
