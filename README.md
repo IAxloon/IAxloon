@@ -92,7 +92,7 @@ Hola, soy Axel. Lorem ipsum
 ---
 ## Proyects
 
-<div class="table-container">
+<div class="table-container" align="left">
   <table>
     <thead>
       <tr>
