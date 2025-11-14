@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff8b,100:8b00ff&height=180&section=header&text=Axel%20Rojas%20&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
----
-
 <p>
   
 Hola, soy Axel. Lorem ipsum
