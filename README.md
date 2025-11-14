@@ -4,7 +4,6 @@
   
 Hola, soy Axel. Lorem ipsum
 
-<div>
 <details>
   <summary>Sobre mí</summary><br/>
 
@@ -21,7 +20,7 @@ Hola, soy Axel. Lorem ipsum
 ## 🛠️ Tools and Technologies
 
 <img align="right" width="36%" src="https://i.imgur.com/tnDMMrD.png"/>
-
+<p align="right">Agregar redes debajo de imagen</p>
 
 <table>
   <tr>
