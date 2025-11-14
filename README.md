@@ -28,7 +28,7 @@ Agregar redes debajo de imagen
 hacer responsive
 -->
 
-<table width="36%">
+<table>
   <tr>
     <th>Front End Development</th>
     <th>Back End / Frameworks</th>
