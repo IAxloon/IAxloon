@@ -26,7 +26,7 @@ Hola, soy Axel. Lorem ipsum
 
 <img align="right" width="38%" src="https://i.imgur.com/tnDMMrD.png"/>
 
-<table>
+<table align="left">
   <tr>
     <th>Front End Development</th>
     <th>Back End / Frameworks</th>
