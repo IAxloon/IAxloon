@@ -82,7 +82,9 @@
       <br>
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
     </td>
+  </tr>
 
+ <tr>
     <td>
       <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
       <br>
