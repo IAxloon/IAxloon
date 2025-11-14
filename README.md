@@ -7,11 +7,11 @@ Hola, soy Axel. Lorem ipsum
 <details>
   <summary>Sobre mí</summary><br/>
 
-- Ingeniero en Informática en formación  
-- Amante de la tecnología, videojuegos y el desarrollo de software  
-- Me gusta crear proyectos con estilos modernos y efectos visuales  
-- Fan del desarrollo web, mobile y automatización  
-- Siempre aprendiendo algo nuevo  
+- Ingeniero en Informática en formación
+- Amante de la tecnología, videojuegos y el desarrollo de software
+- Me gusta crear proyectos con estilos modernos y efectos visuales
+- Fan del desarrollo web, mobile y automatización 
+- Siempre aprendiendo algo nuevo
 
 </details>
   
@@ -20,7 +20,11 @@ Hola, soy Axel. Lorem ipsum
 ## 🛠️ Tools and Technologies
 
 <img align="right" width="36%" src="https://i.imgur.com/tnDMMrD.png"/>
-<p align="right">Agregar redes debajo de imagen</p>
+
+<!--
+Agregar redes debajo de imagen
+hacer responsive
+-->
 
 <table>
   <tr>
