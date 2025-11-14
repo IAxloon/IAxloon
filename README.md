@@ -4,20 +4,27 @@
 
 ---
 
-## ⚡ Sobre mí
+<p>
+  
+Hola, soy Axel. Lorem ipsum
+
+<div>
+<details>
+  <summary>Sobre mí</summary>
+
 - Ingeniero en Informática en formación  
 - Amante de la tecnología, videojuegos y el desarrollo de software  
 - Me gusta crear proyectos con estilos modernos y efectos visuales  
 - Fan del desarrollo web, mobile y automatización  
 - Siempre aprendiendo algo nuevo  
 
----
-
+</details>
+  
+</p>
 
 ## 🛠️ Tools and Technologies
-<div>
-<img align="right" width="40%" src="https://i.imgur.com/tnDMMrD.png"/>
-</div>
+
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
 
 <table>
   <tr>
