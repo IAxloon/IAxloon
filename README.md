@@ -75,6 +75,31 @@
 </table>
 
 ---
+## Proyects
+
+<div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th>Proyecto</th>
+        <th>Tecnologías</th>
+        <th>Año</th>
+        <th>Descripción</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Agrega contenido luego -->
+      <tr>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b00ff,100:00ff8b&height=120&section=footer"/>
