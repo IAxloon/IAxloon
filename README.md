@@ -3,7 +3,6 @@
 </div>
 
 ---
-<br/>
 
 <p>
   
@@ -11,7 +10,7 @@ Hola, soy Axel. Lorem ipsum
 
 <div>
 <details>
-  <summary>Sobre mí</summary>
+  <summary>Sobre mí</summary><br/>
 
 - Ingeniero en Informática en formación  
 - Amante de la tecnología, videojuegos y el desarrollo de software  
